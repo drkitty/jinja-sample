@@ -9,4 +9,4 @@ fi
 
 source .env/bin/activate
 
-pip install jinja2
+pip install ipaddr jinja2
